@@ -1,3 +1,4 @@
+amend line
 this line is for stash
 welcome to git
 second line
