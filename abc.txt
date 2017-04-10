@@ -1,4 +1,5 @@
 adding line for reset
+line for stash
 amend lin
 changes for revereting e
 this line is for stash
