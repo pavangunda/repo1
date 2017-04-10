@@ -1,4 +1,6 @@
-amend line
+adding line for reset
+amend lin
+changes for revereting e
 this line is for stash
 welcome to git
 second line
