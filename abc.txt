@@ -1,9 +1,10 @@
+this is line on 9th 
 adding line for reset
 line for stash
 amend lin
-changes for revereting e
 this line is for stash
 welcome to git
+second line
 second line
 third line
 this is fourth line
